@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InputToasts</string>
+    <string name="switchText">Switch</string>
+    <string name="name">Name</string>
+    <string name="various_inputs_example">Various Inputs Example</string>
+    <string name="clicked_button">Button was clicked</string>
+    <string name="switch_was_on">switch position is on</string>
+    <string name="switch_was_off">Switch was off</string>
+</resources>
